@@ -1,0 +1,14 @@
+<?php
+
+$a = 5.3;
+$b = 10.8;
+
+if (is_float($a)){
+    echo "É float 1!<br>";
+    
+}
+
+if (is_float($b)){
+    echo "É float 2!<br>";
+}
+?>
